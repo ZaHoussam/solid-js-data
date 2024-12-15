@@ -10,37 +10,44 @@
         "Artichokes",
         "Ham",
         "Olives"
-      ]
+      ],
+      "image": "https://github.com/user-attachments/assets/7e32d929-a7c6-48fc-85ab-d9688e11b71f"
     },
     {
       "name": "Fiorentina Pizza",
       "price": 13.49,
-      "ingredients": ["Mozzarella", "Spinach", "Egg", "Garlic", "Parmesan"]
+      "ingredients": ["Mozzarella", "Spinach", "Egg", "Garlic", "Parmesan"],
+      "image": "https://github.com/user-attachments/assets/bb7b66a2-3c00-4c5f-b630-09c5847a41f5"
     },
     {
       "name": "Four Cheese",
       "price": 14.99,
-      "ingredients": ["Mozzarella", "Gorgonzola", "Parmesan", "Ricotta"]
+      "ingredients": ["Mozzarella", "Gorgonzola", "Parmesan", "Ricotta"],
+      "image": "https://github.com/user-attachments/assets/19d9d55f-f0e7-4f7d-b40c-321d6196fbf0"
     },
     {
       "name": "Ham and Mushrooms",
       "price": 12.49,
-      "ingredients": ["Mozzarella", "Tomato Sauce", "Ham", "Mushrooms"]
+      "ingredients": ["Mozzarella", "Tomato Sauce", "Ham", "Mushrooms"],
+      "image": "https://github.com/user-attachments/assets/f189a0fc-d8cb-4e7c-a026-2a9f6f088071"
     },
     {
       "name": "Margherita",
       "price": 10.99,
-      "ingredients": ["Mozzarella", "Tomato Sauce", "Fresh Basil", "Olive Oil"]
+      "ingredients": ["Mozzarella", "Tomato Sauce", "Fresh Basil", "Olive Oil"],
+      "image": "https://github.com/user-attachments/assets/d3cc0b63-6237-4796-b81d-17c42cc4d484"
     },
     {
       "name": "Mushroom Pizza",
       "price": 11.49,
-      "ingredients": ["Mozzarella", "Tomato Sauce", "Mushrooms"]
+      "ingredients": ["Mozzarella", "Tomato Sauce", "Mushrooms"],
+      "image": "https://github.com/user-attachments/assets/f44b528d-49be-46c9-88d3-6895b1c9a688"
     },
     {
       "name": "Pepperoni",
       "price": 12.99,
-      "ingredients": ["Mozzarella", "Tomato Sauce", "Pepperoni"]
+      "ingredients": ["Mozzarella", "Tomato Sauce", "Pepperoni"],
+      "image": "https://github.com/user-attachments/assets/cb3563d4-bff4-46cc-960f-4c4f31433fdf"
     },
     {
       "name": "Quattro Stagioni",
@@ -52,7 +59,8 @@
         "Mushrooms",
         "Ham",
         "Olives"
-      ]
+      ],
+      "image": "https://github.com/user-attachments/assets/17ff3879-900d-4e74-911d-d0071cc39fd2"
     },
     {
       "name": "Romana",
@@ -63,7 +71,8 @@
         "Anchovies",
         "Capers",
         "Oregano"
-      ]
+      ],
+      "image": "https://github.com/user-attachments/assets/c91e625d-073d-484d-94aa-2877f4e16e13"
     }
   ]
 }
